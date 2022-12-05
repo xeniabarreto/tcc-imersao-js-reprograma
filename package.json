@@ -1,0 +1,26 @@
+{
+  "name": "tcc-imersao-js-reprograma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeniabarreto/tcc-imersao-js-reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeniabarreto/tcc-imersao-js-reprograma/issues"
+  },
+  "homepage": "https://github.com/xeniabarreto/tcc-imersao-js-reprograma#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
