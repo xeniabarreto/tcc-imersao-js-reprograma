@@ -17,11 +17,12 @@
     "url": "https://github.com/xeniabarreto/tcc-imersao-js-reprograma/issues"
   },
   "homepage": "https://github.com/xeniabarreto/tcc-imersao-js-reprograma#readme",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  },
   "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
     "eslint": "^8.29.0",
-    "jest": "^29.3.1"
+    "jest": "^29.3.1",
+    "readline-sync": "^1.4.10"
   }
 }
