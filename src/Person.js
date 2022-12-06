@@ -5,11 +5,10 @@ class Person {
   #password;
   id;
 
-  constructor(name, cpf, email, password) {
+  constructor(name, cpf, email) {
     this.name = name;
     this.#cpf = cpf;
     this.email = email;
-    this.#password = password;
     this.id = Date.now();
   }
 }
