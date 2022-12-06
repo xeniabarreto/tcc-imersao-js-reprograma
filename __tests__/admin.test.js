@@ -11,7 +11,6 @@ describe('Admin class test', () => {
 
   it('should register admin with valid data', () => {
     const admin = new Admin();
-    //expect(admin.body).toEqual('Adm successfully registered!');
     expect(admin.registerAdmin('Mauricio', '338338338', 'teste@teste', '1234','true')).toBe('Adm successfully registered!');
   });
 
