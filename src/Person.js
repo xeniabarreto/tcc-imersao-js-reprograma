@@ -14,6 +14,11 @@ class Person {
   get cpf() {
     return this.#cpf;
   }
+
+  set cpf(changeCpf) {
+    // eslint-disable-next-line no-setter-return
+    return this.#cpf = changeCpf;
+  }
 }
 
 module.exports = Person;
