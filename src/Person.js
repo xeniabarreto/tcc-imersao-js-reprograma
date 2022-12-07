@@ -2,7 +2,6 @@ class Person {
   name;
   #cpf;
   email;
-  #password;
   id;
 
   constructor(name, cpf, email) {
@@ -10,6 +9,10 @@ class Person {
     this.#cpf = cpf;
     this.email = email;
     this.id = Date.now();
+  }
+
+  get cpf() {
+    return this.#cpf;
   }
 }
 
