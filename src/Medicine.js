@@ -18,28 +18,3 @@ class Medicine {
   
 module.exports = Medicine;
   
-
-
-// {
-//     dipirona: 10,
-//     dipirona: 5,
-
-
-//     neosaldina: 11,
-// }
-
-
-//     dipirona : 10
-// }
-
-
-
-// entrada( nome, 1)
-// verificar
-// if retirar propierdade estatuca
-
-// retirada(nome, 1)
-// verificar
-// return MessageChannel
-
-// else 
