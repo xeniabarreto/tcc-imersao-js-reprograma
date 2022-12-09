@@ -1,4 +1,4 @@
-# TCC - Imersão JavaScript | {reprograma} 2022 | Good Medicine
+# TCC - Imersão JavaScript | Good Medicine
 
 
 <div align="center">
@@ -74,8 +74,8 @@ Dúvidas sobre Git:  <a href="https://gist.github.com/xeniabarreto/93e05f03d5545
 
 - Módulo 1: 
     
-      Pirâmide de Testes ballot_box_with_check
-      Test Driven Development ballot_box_with_check
+      Pirâmide de Testes
+      TDD - Test Driven Development
 
 - Módulo 2: 
 
