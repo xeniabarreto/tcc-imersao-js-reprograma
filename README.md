@@ -28,6 +28,7 @@
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Melhorias Futuras](#melhorias-futuras)
+- [Conclusão](#conclusão)
 - [Referências](#referências)
 - [Agradecimentos](#agradecimentos)
 - [Autora](#autora)
@@ -159,15 +160,46 @@ Para a construção deste projeto, as seguintes tecnologias foram utilizadas:
 
 ## **Melhorias Futuras**
 
-<br>
 
+* Transformar em uma API integrada com um Banco de Dados.
+* Desenvolvimento da lógica para administradores com rotas autenticadas e senhas criptografadas.
 * Tratamento de dados sensíveis de acordo com a Lei de Proteção de Dados - LGPD.
-* Integrar com o Maps para calcular a distância da farmácia mais próxima do beneficiário; 
 *  Implantação de código HTML e CSS para criação de uma interface capaz de possibilitar a interação do usuário com aplicação;
-*  Desenvolver uma interface que permita transmitir informações aos usuários sobre manipulação, conservação e descarte adequado de medicamentos.
+* Disponibilização da disponibilizade do estoque ao beneficiário via web.
+* Integrar com o Maps para calcular a distância da farmácia mais próxima do beneficiário; 
+
 
 
 <br>
+
+## **Conclusão**
+
+<p align="justify">Através da tecnologia apresentada, podemos viabilizar esta iniciativa com resultados serão garantidos. 
+
+<br>
+
+#### **IMPACTO SOCIAL**
+<p align="justify">Um projeto pioneiro está em atividade no Rio Grande do Sul, e p um relatório indicava:
+
+<br>
+
+Nos primeiros 80 dias:
+
+<li>15 mil reais de compensação em valores;</li>
+<li>17 mil comprimidos, pomadas e líquidos reaproveitados;</li>
+
+<br>
+
+Desde 2015:
+
+<li>21 mil moradores foram ajudados;</li>
+<li>3 milhões de reais economizados;</li>
+<br>
+
+<br>
+
+
+
 
 ##  **Referências**
 
