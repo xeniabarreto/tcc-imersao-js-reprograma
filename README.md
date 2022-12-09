@@ -40,12 +40,10 @@
 
 Faça o clone e siga o passo a passo conforme abaixo:
 
-<br>
-
-### Requirementos
+#### Requirementos
 * NodeJS versão 16
 
-### Setup
+#### Setup
 Instale as dependencias:
 ```
 npm install
@@ -62,7 +60,7 @@ node indexPharmacy.js
 ```
 
 
-### Testes
+#### Testes
 Rodar todos os testes:
 ```
 npm run test
@@ -70,13 +68,11 @@ npm run test
 <br>
 
 Dúvidas sobre Git:  <a href="https://gist.github.com/xeniabarreto/93e05f03d5545ebd61984b11ad079d62"> Help</a>
-
-
 <br>
 
 ## **Proposta**
 
-<p align="justify">Este projeto foi desenvolvido como TCC da 1ª turma do curso Imersão JavaScript da <a href="https://www.linkedin.com/company/reprogramabr/">{Reprograma}</a>, onde foi aplicado todo conteúdo visto durante as 12 semanas, tais como:
+<p align="">Este projeto foi desenvolvido como TCC da 1ª turma do curso Imersão JavaScript da <a href="https://www.linkedin.com/company/reprogramabr/">{Reprograma}</a>, onde foi aplicado todo conteúdo visto durante as 12 semanas, tais como:
 
 - Módulo 1: 
     
@@ -94,12 +90,11 @@ Dúvidas sobre Git:  <a href="https://gist.github.com/xeniabarreto/93e05f03d5545
       SOLID
       Refatoração
 
-
 <br>
 
 ## **Problema**  
 
-<p align="justify">Mediante as estatísticas o Brasil, é o país que: 
+<p align="">Mediante as estatísticas o Brasil, é o país que: 
 
 <li> Em 7º lugar, é o que mais consome medicamentos do mundo;</li>
 <li> Em que 20% de todos medicamentos são descartados de forma irregular no meio ambiente;</li>
@@ -107,22 +102,22 @@ Dúvidas sobre Git:  <a href="https://gist.github.com/xeniabarreto/93e05f03d5545
 
 <br>
 
-<p align="justify">O desperdício e descarte irregular de medicamentos ocorre em sua marioria proveniente de sobras de remédios da nossa "farmácia caseira" - um hábito comum do brasileiro e quem sofre com isso é o meio ambiente.
+<p align="">O desperdício e descarte irregular de medicamentos ocorre em sua marioria proveniente de sobras de remédios da nossa "farmácia caseira" - um hábito comum do brasileiro e quem sofre com isso é o meio ambiente.
 
 <br>
 
 ## **Solução**
 
 
-<p align="justify">Atualmente existem pontos de coletas para descarte de medicamentos, como farmácias e drogarias, onde serão encaminhados ao seu destino final sem risco de contaminação.
+<p align="">Atualmente existem pontos de coletas para descarte de medicamentos, como farmácias e drogarias, onde serão encaminhados ao seu destino final sem risco de contaminação.
 
-<p align="justify">Além do mais, este é um projeto chamado "Good Medicine" com propósito de receber doações de medicamentos e redistribuílos a população de forma gratuita. 
+<p align="">Além do mais, este é um projeto chamado "Good Medicine" com propósito de receber doações de medicamentos e redistribuílos a população de forma gratuita. 
 
-<p align="justify">Será possível cadastrar farmácias interessadas em fazer parte desta iniciativa e receber as doações, realizar perícias quanto a qualidade e disponibilização.
+<p align="">Será possível cadastrar farmácias interessadas em fazer parte desta iniciativa e receber as doações, realizar perícias quanto a qualidade e disponibilização.
 
-<p align="justify">Teremos também o cadastras de cada medicamento recebido, sendo possivel consultar a sua disponibilidade e extrair dados estatísticos.
+<p align="">Teremos também o cadastras de cada medicamento recebido, sendo possivel consultar a sua disponibilidade e extrair dados estatísticos.
 
-<p align="justify">Em resumo, esta iniciativa promoverá o reaproveitamento de medicamentos, redução do descarte irregular e impacto ambiental, além de ajudar a quem precisa, reduzindo ou até anulando seus gastos.
+<p align="">Em resumo, esta iniciativa promoverá o reaproveitamento de medicamentos, redução do descarte irregular e impacto ambiental, além de ajudar a quem precisa, reduzindo ou até anulando seus gastos.
 
 <br> 
 
@@ -174,12 +169,12 @@ Para a construção deste projeto, as seguintes tecnologias foram utilizadas:
 
 ## **Conclusão**
 
-<p align="justify">Através da tecnologia apresentada, podemos viabilizar esta iniciativa com resultados serão garantidos. 
+<p align="">Através da tecnologia apresentada, podemos viabilizar esta iniciativa com resultados serão garantidos. 
 
 <br>
 
 #### **IMPACTO SOCIAL**
-<p align="justify">Um projeto pioneiro está em atividade no Rio Grande do Sul, e p um relatório indicava:
+<p align="">Um projeto pioneiro está em atividade no Rio Grande do Sul, e p um relatório indicava:
 
 <br>
 
@@ -217,11 +212,11 @@ Desde 2015:
 
 ##  **Agradecimentos**
 
-<p align="justify">Agradeço todas as colegas de classe, professoras, facilitadora, bootcamp leader e psicólogas que contribuíram de forma extraordinária para meu conhecimento.
+<p align="">Agradeço todas as colegas de classe, professoras, facilitadora, bootcamp leader e psicólogas que contribuíram de forma extraordinária para meu conhecimento.
 
-<p align="justify">Agradeço pela oportunidade de retornar a <a href="https://www.linkedin.com/company/reprogramabr/">{Reprograma}</a>, fazendo parte do propósito em promover conhecimento e oportunidades em tecnologia para todas as mulheres desse país.
+<p align="">Agradeço pela oportunidade de retornar a <a href="https://www.linkedin.com/company/reprogramabr/">{Reprograma}</a>, fazendo parte do propósito em promover conhecimento e oportunidades em tecnologia para todas as mulheres desse país.
 
-<p align="justify">Dedico este projeto a todos meus amigos e familiares que pacientemente entenderam a minha ausência em dedicação total durante este Bootcamp, com a certeza que finalizo melhor que quando iniciei, e essa é a minha melhor recompensa.
+<p align="">Dedico este projeto a todos meus amigos e familiares que pacientemente entenderam a minha ausência em dedicação total durante este Bootcamp, com a certeza que finalizo melhor que quando iniciei, e essa é a minha melhor recompensa.
 <br>
 
 
