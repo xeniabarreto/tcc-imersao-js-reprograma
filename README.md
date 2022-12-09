@@ -172,7 +172,7 @@ Para a construção deste projeto, as seguintes tecnologias foram utilizadas:
 <br>
 
 #### **IMPACTO SOCIAL**
-<p align="">Um projeto pioneiro está em atividade no Rio Grande do Sul, e p um relatório indicava:
+<p align="">Um projeto pioneiro está em atividade no Rio Grande do Sul, e um relatório indicava:
 
 <br>
 
