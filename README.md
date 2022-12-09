@@ -34,8 +34,6 @@
 - [Autora](#autora)
 <br>
 
-<br>
-
 ## **Instruções para Instalação**
 
 Faça o clone e siga o passo a passo conforme abaixo:
@@ -191,10 +189,6 @@ Desde 2015:
 <li>3 milhões de reais economizados;</li>
 <br>
 
-<br>
-
-
-
 
 ##  **Referências**
 
@@ -204,7 +198,7 @@ Desde 2015:
 
  > <a href="https://portais.univasf.edu.br/sustentabilidade/noticias-sustentaveis/descarte-de-medicamentos-vencidos-como-e-onde-descartar-corretamente">Universidade Federal do Vale do Rio São Francisco</p></a>
 
- > <a href="http://aquitemremedio.prefeitura.sp.gov.br/#/"><p align="">Aqui tem remédio</p></a>
+ > <a href="http://aquitemremedio.prefeitura.sp.gov.br/#/"><p align="justify">Aqui tem remédio</p></a>
 
 </h3>
 
