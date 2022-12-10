@@ -8,7 +8,7 @@ describe('GenericMedicine class test', () => {
   });
 
   it('should return error when instantiating the GenericMedicine due to incorrect data', () => {
-    expect(() => (generic.addMedicine('', 2))).toThrow('It must be instanced by HerbalMedicine.');
+    expect(() => (generic.addMedicine('', 2))).toThrow('It must be instanced by GenericMedicine.');
   });
 
   describe('Test Method addMedicine', () => {
@@ -27,7 +27,7 @@ describe('GenericMedicine class test', () => {
       expect(() => generic.addMedicine(generic, 0)).toThrow('It must be greater than 0.');
     });
 
-    it('should return error when not instantiated from HerbalMedicine', () => {
+    it('should return error when not instantiated from GenericMedicine', () => {
       expect('test' instanceof GenericMedicine).toBe(false);
     });
 
@@ -50,8 +50,8 @@ describe('GenericMedicine class test', () => {
       expect(() => generic.removeMedicine(generic, '')).toThrow('It must be a number.');
     });
 
-    it('should return error when not instantiated from HerbalMedicine', () => {
-      expect(() => (generic.addMedicine('', 2))).toThrow('It must be instanced by HerbalMedicine.');
+    it('should return error when not instantiated from GenericMedicine', () => {
+      expect(() => (generic.addMedicine('', 2))).toThrow('It must be instanced by GenericMedicine.');
     
     });
 

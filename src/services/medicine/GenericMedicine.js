@@ -41,7 +41,7 @@ class GenericMedicine extends Medicine {
       }
     
     } else {
-      throw new Error('It must be instanced by HerbalMedicine.');
+      throw new Error('It must be instanced by GenericMedicine.');
     }
   }
 
@@ -62,7 +62,7 @@ class GenericMedicine extends Medicine {
       }
     
     } else {
-      throw new Error('It must be instanced by HerbalMedicine.');
+      throw new Error('It must be instanced by GenericMedicine.');
     }
   }
 
